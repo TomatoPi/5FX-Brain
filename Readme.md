@@ -1,2 +1,2 @@
-# 5FX-Libs
-Set of utilities for 5FX programs
+# 5FX-Brain
+## 5FX environement's core
