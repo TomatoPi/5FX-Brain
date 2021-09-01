@@ -1,18 +1,18 @@
 [submodule "5FX-Autostart"]
 	path = 5FX-Autostart
-	url = git@github.com:TomatoPi/5FX-Autostart.git
+	url = https://github.com/TomatoPi/5FX-Autostart
 [submodule "5FX-Expander"]
 	path = 5FX-Expander
-	url = git@github.com:TomatoPi/5FX-Expander.git
+	url = https://github.com/TomatoPi/5FX-Expander
 [submodule "5FX-Libs"]
 	path = 5FX-Libs
-	url = git@github.com:TomatoPi/5FX-Libs.git
+	url = https://github.com/TomatoPi/5FX-Libs
 [submodule "5FX-Modular"]
 	path = 5FX-Modular
-	url = git@github.com:TomatoPi/5FX-Modular.git
+	url = https://github.com/TomatoPi/5FX-Modular
 [submodule "5FX-Session"]
 	path = 5FX-Session
-	url = git@github.com:TomatoPi/5FX-Session.git
+	url = https://github.com/TomatoPi/5FX-Session
 [submodule "5FX-pi"]
 	path = 5FX-pi
-	url = git@github.com:TomatoPi/5FX-pi.git
+	url = https://github.com/TomatoPi/5FX-pi
