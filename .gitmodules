@@ -16,3 +16,9 @@
 [submodule "5FX-pi"]
 	path = 5FX-pi
 	url = https://github.com/TomatoPi/5FX-pi
+[submodule "5FX-SeedFX"]
+	path = 5FX-SeedFX
+	url = https://github.com/TomatoPi/5FX-SeedFX
+[submodule "5FX-SynthFX"]
+	path = 5FX-SynthFX
+	url = https://github.com/TomatoPi/5FX-SynthFX
