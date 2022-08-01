@@ -22,3 +22,9 @@
 [submodule "5FX-SynthFX"]
 	path = 5FX-SynthFX
 	url = https://github.com/TomatoPi/5FX-SynthFX
+[submodule "5FX-Stepper"]
+	path = 5FX-Stepper
+	url = https://github.com/TomatoPi/5FX-Stepper
+[submodule "Mycelium"]
+	path = Mycelium
+	url = git@github.com:TomatoPi/Mycelium.git
