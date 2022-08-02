@@ -13,9 +13,9 @@
 [submodule "5FX-Session"]
 	path = 5FX-Session
 	url = https://github.com/TomatoPi/5FX-Session
-[submodule "5FX-pi"]
-	path = 5FX-pi
-	url = https://github.com/TomatoPi/5FX-pi
+[submodule "5FX-Pi"]
+	path = 5FX-Pi
+	url = https://github.com/TomatoPi/5FX-Pi
 [submodule "5FX-SeedFX"]
 	path = 5FX-SeedFX
 	url = https://github.com/TomatoPi/5FX-SeedFX
