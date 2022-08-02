@@ -28,3 +28,6 @@
 [submodule "Mycelium"]
 	path = Mycelium
 	url = git@github.com:TomatoPi/Mycelium.git
+[submodule "SFX-Pi"]
+	path = SFX-Pi
+	url = https://github.com/TomatoPi/SFX-Pi
