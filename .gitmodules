@@ -1,6 +1,6 @@
-[submodule "5FX-Autostart"]
-	path = 5FX-Autostart
-	url = https://github.com/TomatoPi/5FX-Autostart
+[submodule "5FX-Tools"]
+	path = 5FX-Tools
+	url = git@github.com:TomatoPi/5FX-Tools.git
 [submodule "5FX-Expander"]
 	path = 5FX-Expander
 	url = https://github.com/TomatoPi/5FX-Expander
