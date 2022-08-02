@@ -10,7 +10,7 @@ if(NOT N EQUAL 0)
   set(ctest_test_args ${ctest_test_args} PARALLEL_LEVEL ${N})
 endif()
 
-
+add_subdirectory(5FX-Tools)
 
 add_custom_target(
   ALL
