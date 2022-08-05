@@ -28,3 +28,6 @@
 [submodule "SFX-Pi"]
 	path = SFX-Pi
 	url = https://github.com/TomatoPi/SFX-Pi
+[submodule "5FX-Syncer"]
+	path = 5FX-Syncer
+	url = git@github.com:TomatoPi/5FX-Syncer.git
