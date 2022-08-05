@@ -11,7 +11,7 @@ if(NOT N EQUAL 0)
 endif()
 
 add_subdirectory(5FX-Tools)
-add_subdirectory(5FX-Stepper)
+add_subdirectory(5FX-Syncer)
 
 add_custom_target(
   ALL
