@@ -31,3 +31,6 @@
 [submodule "5FX-Syncer"]
 	path = 5FX-Syncer
 	url = git@github.com:TomatoPi/5FX-Syncer.git
+[submodule "5FX-Pedalboard"]
+	path = 5FX-Pedalboard
+	url = git@github.com:TomatoPi/5FX-Pedalboard.git
